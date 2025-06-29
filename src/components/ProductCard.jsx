@@ -1,7 +1,8 @@
-import { useState } from  "react" 
+import { useState, useEffect } from  "react" 
 import { Button } from "./ui/button";
 import { IoIosAdd, IoIosRemove, IoMdRemove } from "react-icons/io";
-export const ProductCard = ({ image, name, price, stock }) => {
+import { Link } from "react-router-dom";
+export const ProductCard = ({ image, name, price, stock, id }) => {
   // const { Image, ProductName, Price, Stock } = props;
   const [quantity, setQuantity] = useState (0)
 
@@ -26,21 +27,28 @@ export const ProductCard = ({ image, name, price, stock }) => {
     }
   }
   
+  // useEffect(() => {
+  //   alert('component did mount')
+  // }, []);
 
+  // useEffect(() => {
+  //    alert('component did update')
+  // }, [quantity])
   return (
     <div className="p-4 border rounded-md md:max-w-96 flex flex-col items-start gap-4 mx-auto">
-      <div className="aspect-square w-full overflow-hidden">
+      <Link to={"/product/" + id} className="aspect-square w-full overflow-hidden">
         <img src={image} alt={name} className="w-full object-cover" />
-      </div>
+      </Link>
 
-      <div className="space-y-1">
+      <Link to={"/product/" + id}  className="space-y-1">
         <p className="text-md">{name}</p>
         <p className="text-xl font-semibold">
           Rp {price.toLocaleString("id-ID")}
         </p>
         <p className="text-muted-foreground text-sm">In Stock: {stock} </p>
-      </div>
+      </Link>
       <div>
+
         {/* button quantity */}
         <div className="flex flex-col gap-2 w-80">
           <div className="flex justify-between items-center">

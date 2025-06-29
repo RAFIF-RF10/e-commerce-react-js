@@ -5,22 +5,22 @@ import HomePage from "./pages/HomePage";
 import { Routes, Route } from "react-router-dom";
 import NotFoundPage from "./pages/NotFoundPage";
 import LoginPage from "./pages/LoginPage";
-
+import productDetailPage from "./pages/ProductDetailPage";
 
 function App() {
   return (
     <>
-    <Header />
+      <Header />
 
       <Routes>
-        <Route path="/" Component={ HomePage } />
-        <Route path="/cart" Component={ CartPage } />
+        <Route path="/" Component={HomePage} />
+        <Route path="/cart" Component={CartPage} />
         <Route path="/login" Component={LoginPage} />
+        <Route path="/product/:productId" Component={productDetailPage} />
         <Route path="*" Component={NotFoundPage} />
-        
       </Routes>
 
-    <Footer />
+      <Footer />
     </>
   );
 }

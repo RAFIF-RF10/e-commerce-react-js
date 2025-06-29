@@ -1,0 +1,145 @@
+{
+  "products": [
+  {
+    "name": "Navy Oversized T-Shirt",
+    "image": "https://i.pinimg.com/736x/d4/e4/fd/d4e4fd623af180946c9f51de85d295d2.jpg",
+    "price": 155000,
+    "stock": 10,
+    "id": 1
+  },
+  {
+    "name": "Green Oversized T-Shirt",
+    "image": "https://i.pinimg.com/736x/b1/9a/48/b19a486b14abbd853fa3b7443a5b1869.jpg",
+    "price": 125000,
+    "stock": 0,
+    "id": 2
+  },
+  {
+    "name": "Black Minimal Oversized Tee",
+    "image": "https://i.pinimg.com/736x/fa/ae/a4/faaea47fc1ea4752735ef1e30a7a3c66.jpg",
+    "price": 145000,
+    "stock": 8,
+    "id": 3
+  },
+  {
+    "name": "White Plain Oversized Tee",
+    "image": "https://i.pinimg.com/736x/85/5d/6b/855d6bdb6b6b9f1c12949e63d9254efa.jpg",
+    "price": 135000,
+    "stock": 5,
+    "id": 4
+  },
+  {
+    "name": "Beige Casual Oversized Tee",
+    "image": "https://i.pinimg.com/736x/2f/24/c6/2f24c6cb5fab31f7426da3f7efc2ba93.jpg",
+    "price": 140000,
+    "stock": 12,
+    "id": 5
+  },
+  {
+    "name": "Brown Earth Tone Oversized T-Shirt",
+    "image": "https://i.pinimg.com/736x/7d/6c/6d/7d6c6d2c1cfb6fca4fa626537ee8d74a.jpg",
+    "price": 149000,
+    "stock": 7,
+    "id": 6
+  },
+  {
+    "name": "Charcoal Vintage Oversized Tee",
+    "image": "https://i.pinimg.com/736x/20/08/c3/2008c3103e8ddf2167cb9fd2936978bc.jpg",
+    "price": 158000,
+    "stock": 4,
+    "id": 7
+  },
+  {
+    "name": "Cream Oversized Pocket Tee",
+    "image": "https://i.pinimg.com/736x/3a/ad/36/3aad3639b8749b1a12409fa5f19f8436.jpg",
+    "price": 142000,
+    "stock": 6,
+    "id": 8
+  },
+  {
+    "name": "Sky Blue Oversized T-Shirt",
+    "image": "https://i.pinimg.com/736x/2a/7f/d8/2a7fd81c344735e3cea5581121fede5f.jpg",
+    "price": 130000,
+    "stock": 9,
+    "id": 9
+  },
+  {
+    "name": "Gray Basic Oversized ",
+    "image": "https://i.pinimg.com/736x/f7/46/b5/f746b5e7638962ba23adcf90a7b5fbad.jpg",
+    "price": 139000,
+    "stock": 11,
+    "id": 10
+  },
+  {
+    "name": "Olive Green Street Tee",
+    "image": "https://i.pinimg.com/736x/8d/27/65/8d2765c79bbf4c636d621e6439cc693f.jpg",
+    "price": 148000,
+    "stock": 3,
+    "id": 11
+  },
+  {
+    "name": "Washed Black Oversized Tee",
+    "image": "https://i.pinimg.com/736x/df/ff/76/dfff764039e2eeb4eae600a4c5bf1f40.jpg",
+    "price": 160000,
+    "stock": 2,
+    "id": 12
+  },
+  {
+    "name": "Dusty Pink Oversized Tee",
+    "image": "https://i.pinimg.com/736x/ab/c4/ae/abc4aeec8efdc6b3d2ec50d1380ff750.jpg",
+    "price": 133000,
+    "stock": 10,
+    "id": 13
+  },
+  {
+    "name": "Light Gray Urban Oversized Tee",
+    "image": "https://i.pinimg.com/736x/87/1f/17/871f17a6c29480e54d5bd138822b96dd.jpg",
+    "price": 129000,
+    "stock": 14,
+    "id": 14
+  },
+  {
+    "name": "Ash Blue Oversized Tee",
+    "image": "https://i.pinimg.com/736x/40/93/4f/40934f5bbdd16ced7c46caf20cfe4fb5.jpg",
+    "price": 152000,
+    "stock": 6,
+    "id": 15
+  },
+  {
+    "name": "Khaki Oversized Fit T-Shirt",
+    "image": "https://i.pinimg.com/736x/f2/80/e8/f280e8c197ec46cfed937e2315f9e0bd.jpg",
+    "price": 144000,
+    "stock": 5,
+    "id": 16
+  },
+  {
+    "name": "Orange Rust Oversized Tee",
+    "image": "https://i.pinimg.com/736x/1f/06/a0/1f06a08baeacfcac2bc044e15ddd6000.jpg",
+    "price": 141000,
+    "stock": 8,
+    "id": 17
+  },
+  {
+    "name": "Stone Washed Oversized T-Shirt",
+    "image": "https://i.pinimg.com/736x/aa/9d/25/aa9d25c0861eab50a778a1cbc1ae13a2.jpg",
+    "price": 155000,
+    "stock": 7,
+    "id": 18
+  },
+  {
+    "name": "Purple Lavender Oversized Tee",
+    "image": "https://i.pinimg.com/736x/63/8a/f8/638af89a3a6c8893a565b69e4fe399d3.jpg",
+    "price": 137000,
+    "stock": 4,
+    "id": 19
+  },
+  {
+    "name": "Muted Yellow Oversized Tee",
+    "image": "https://i.pinimg.com/736x/31/ca/ed/31caed29ef3f89f5db4117228d98cb55.jpg",
+    "price": 134000,
+    "stock": 10,
+    "id": 20
+  }
+],
+  "users": [{}]
+}
